@@ -1,0 +1,177 @@
+//Fonts Source
+$muli-all: 'Muli', sans-serif;
+//Dedicated Font Familys
+$body-font: $muli-all;
+
+
+//Smallest Font Sizes
+$smallest-font-size:  12px;
+$smallest-font-size1: 13px;
+$smallest-font-size2: 11px;
+
+//Small Font
+$small-font-size:  15px;
+$small-font-size1: 16px;
+$small-font-size2: 14px;
+$small-font-size3: 18px;
+
+//Body Font
+$body-font-size: 17px;
+
+//Medium heading Font
+$medium-heading-font-size:  40px;
+$medium-heading-font-size1: 45px;
+$medium-heading-font-size2: 48px;
+
+//Heading Font
+$heading-font-size:  46px;
+$heading-font-size1: 50px;
+$heading-font-size2: 55px;
+
+//Heading Font small
+$heading-font-size-small:  36px;
+$heading-font-size-small1: 35px;
+$heading-font-size-small2: 34px;
+
+//Sub heading Font
+$sub-heading-font-size:  19px;
+$sub-heading-font-size1: 21px;
+
+//Medium Font
+$medium-font-size:   20px;
+$medium-font-size1:  22px;
+$medium-font-size2:  30px;
+$medium-font-size3:  23px;
+$medium-font-size4:  26px;
+$medium-font-size5:  25px;
+$medium-font-size6:  28px;
+$medium-font-size7:  27px;
+$medium-font-size8:  32px;
+$medium-font-size9:  24px;
+$medium-font-size10: 39px;
+$medium-font-size11: 29px;
+$medium-font-size12: 38px;
+
+//Large Font
+$large-font-size:  80px;
+$large-font-size1: 65px;
+$large-font-size2: 44px;
+$large-font-size3: 56px;
+$large-font-size4: 57px;
+
+//Font Weights
+$regular:   300;
+$normal:    400;
+$medium:    500;
+$semi-bold: 600;
+$bold:      700;
+
+//Color Names/Source
+$color-white:       #ffffff;
+$color-fade-white:  #fafafa;
+$color-fade-white2: #f8f8f8;
+$color-fade-white3: #fefefe;
+$color-fade-white4: #f3f5f6;
+$color-fade-white5: #e7e9ea;
+$color-fade-white6: #f9f9f9;
+$color-fade-white7: #c5c5c5;
+$color-fade-white8: #f5fbff;
+$color-fade-white9: #a5a5a5;
+$color-fade-white10:#ededed;
+$color-fade-white11:#a9b0bd;
+$color-fade-white12:#c1c1c1;
+$color-black:       #000000;
+$color-black1:      #002a42;
+$color-black2:      #212121;
+$color-black3:      #3c3c3c;
+$color-black4:      #002941;
+$color-black5:      #222222;
+$color-black6:      #212529;
+$color-black7:      #3d3d3d;
+$color-black8:      #2b2b2b;
+$color-black9:      #232323;
+$color-black10:     #656363;
+$color-grey:        #ededee;
+$color-grey2: 		#eaeaea;
+$color-grey3: 		#e4e9eb;
+$color-grey4: 		#5c6266;
+$color-grey5: 		#a4abb1;
+$color-grey6: 		#e9e9e9;
+$color-grey7: 		#a0a0a0;
+$color-grey8: 		#adadad;
+$color-grey9: 		#efefef;
+$color-grey10: 		#c9c9c9;
+$color-grey11: 		#e8e8e8;
+$color-grey12: 		#e0e0e0;
+$color-grey13: 		#566878;
+$color-grey14: 		#f1f1f1;
+$color-grey15: 		#737373;
+$color-grey16: 		#afafaf;
+$color-grey17: 		#5f5f5f;
+$color-grey18: 		#a9a9a9;
+$color-grey19: 		#dadada;
+$color-grey20: 		#cecece;
+$color-grey21: 		#536977;
+$color-grey22: 		#f3f3f3;
+$color-grey23: 		#d6d6d6;
+$color-grey24: 		#bfbfbf;
+$color-grey25: 		#d8d8d8;
+$color-grey26: 		#3b5262;
+$color-grey27: 		#e6e6e6;
+$color-grey28: 		#000000;
+$color-grey29: 		#cecddc;
+$color-grey30: 		#a9a7a7;
+$color-grey31: 		#b3b3b3;
+$color-sky: 		#04b6dc;
+$color-sky2: 		#00c4df;
+$color-blue: 		#2097fc;
+$color-blue2: 		#007edc;
+$color-blue3: 		#0099e6;
+$color-blue4: 		#1dc8e5;
+$color-blue5: 		#3a80f7;
+$color-blue6: 		#0093e8;
+$color-blue7: 		#4f7bfe;
+$color-blue8: 		#0095eb;
+$color-blue9: 		#000000;
+$color-blue10: 		#4a6072;
+$color-blue11: 		#0090d6;
+$color-blue12: 		#1d79e2;
+$color-blue13: 		#172a36;
+$color-blue14: 		#152f39;
+$color-blue15: 		#1e3646;
+$color-blue16: 		#ccc;
+$color-blue17: 		#0e77d0;
+$color-blue18: 		#15293f;
+$color-blue19: 		#0a2843;
+$color-fade-blue: 	#3ca3b8;
+$color-yellow: 		#fff056;
+$color-yellow1: 	#fff32e;
+$color-yellow2: 	#f9f22f;
+$color-yellow3: 	#fff176;
+$color-yellow4: 	#fff32f;
+$color-yellow5: 	#ff0;
+$color-fade-red: 	#ff8989;
+$color-orange: 		#ffa944;
+$color-green: 		#4b9a28;
+$color-green1: 		#3a9c51;
+$color-green2: 		#367938;
+$color-sky: 		#2eb1ff;
+$color-sky2: 		#e0f1ff;
+$color-red: 		#f00;
+
+
+$alert-success-background-color : #dff0d8;
+$alert-success-color :            #3c763d;
+$alert-success-border-color :     #d6e9c6;
+
+$alert-info-background-color :    #d9edf7;
+$alert-info-color :               #31708f;
+$alert-info-border-color :        #bce8f1;
+
+$alert-warning-background-color : #fcf8e3;
+$alert-warning-color :            #8a6d3b;
+$alert-warning-border-color :     #faebcc;
+
+$alert-danger-background-color :  #f2dede;
+$alert-danger-color :             #a94442;
+$alert-danger-border-color :      #ebccd1;
